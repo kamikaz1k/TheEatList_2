@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_app_id">490115381151780</string>
+
+    <string name="app_name">CraveList [alpha]</string>
+    <string name="food_list_title">  2Eat  |   iAte   |  whoAte  </string>
+    <string name="food_list_tabs_2Eat">2Eat</string>
+    <string name="food_list_tabs_iAte">iAte</string>
+    <string name="food_list_tabs_friends">whoAte</string>
+    <string name="add_button">+</string>
+    <string name="action_search">Search List...coming soon</string>
+    <string name="action_new_item">New Item</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete_all_items">Clear List</string>
+    <string name="dialogue_delete_all_items">This will clear all the food item in your list. Are you sure you want to do that?</string>
+    <string name="dialogue_delete_all_items_yes">Yes</string>
+    <string name="dialogue_delete_all_items_no">Not Yet!</string>
+    
+    <string name="action_help">Help</string>
+    <string name="dialogue_main_help">List Help</string>
+    <string name="dialogue_help_main_activity_text">
+        The main area is used to browse all your saved food items.
+        Click on the tabs to switch between List of all Foods, Eaten foods, Friends list (coming soon).
+        Add a new food item to the list by clicking on the Plus button in the action bar.
+        Click on the Clear List button to clear all your food items.
+        Just tap on the name to open the food entry for changes and reviews.
+	</string>
+    <string name="dialogue_add_help">Add Food Help</string>
+    <string name="dialogue_help_add_activity_text">
+        Add food entries here!
+    </string>
+    <string name="dialogue_edit_help">Edit Details Help</string>
+    <string name="dialogue_help_edit_activity_text">
+        Make changes to food entries here!
+    </string>
+    
+    <string name="food_item_name">Eat what?</string>
+    <string name="food_item_location">Where is it?</string>
+    <string name="save_details">Save</string>
+    <string name="action_save">Save Food Item</string>
+    <string name="title_activity_new_food_item">New Food Item</string>
+    
+    <string name="title_activity_edit_food_item">Food Item Details</string>
+    <string name="food_hashtag_hint">What type of food is it?</string>
+    <string name="food_review_hint">How did it taste?</string>
+    <string name="delete_details">Delete</string>
+    <string name="action_delete">Delete Item</string>
+    <string name="action_share">Share Item</string>
+
+</resources>

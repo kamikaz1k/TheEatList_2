@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Dev_Projects\AndroidstudioProjects\TheEatList_2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\TheEatList_2\app\build\intermediates\pre-dexed\debug\classes-e624f500a8a13f19e59755aedfa7db9b79695568.jar" />
+    </item>
+    <item
+        jar="D:\Dev_Projects\AndroidstudioProjects\TheEatList_2\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\TheEatList_2\app\build\intermediates\pre-dexed\debug\classes-ea88064d07c10cfcaccc6b674e7435f37ec4a684.jar" />
+    </item>
+    <item
+        jar="D:\Users\kdandang\android-sdks\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\TheEatList_2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-0060f20135216123caf769984e102e2e600ff3bb.jar" />
+    </item>
+    <item
+        jar="D:\Users\kdandang\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\TheEatList_2\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-2acba3eb43593bdfd390eb2249af045a8526b454.jar" />
+    </item>
+    <item
+        jar="D:\Dev_Projects\AndroidstudioProjects\TheEatList_2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Dev_Projects\AndroidstudioProjects\TheEatList_2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d211c1f602ac7e31e71dc663b41401b0d263b59a.jar" />
+    </item>
+
+</items>
