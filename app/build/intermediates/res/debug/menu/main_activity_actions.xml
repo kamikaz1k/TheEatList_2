@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_search"
+          android:icon="@drawable/ic_action_search"
+          android:title="@string/action_search"
+          android:showAsAction="ifRoom" />
+    
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_new_item"
+          android:icon="@drawable/ic_action_add_item"
+          android:title="@string/action_new_item"
+          android:showAsAction="ifRoom" />
+        
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_refresh"
+          android:icon="@drawable/ic_action_refresh"
+          android:title="@string/action_refresh"
+          android:showAsAction="ifRoom" />
+        
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_delete_all_items"
+          android:icon="@drawable/ic_action_add_item"
+          android:title="@string/action_delete_all_items"
+          android:showAsAction="never" />
+        
+    <!-- Search, should appear as action button -->
+    <item android:id="@+id/action_main_help"
+          android:icon="@drawable/ic_action_add_item"
+          android:title="@string/action_help"
+          android:showAsAction="never" />
+
+
+</menu>
+<!-- From: file:/D:/Dev_Projects/AndroidstudioProjects/TheEatList_2/app/src/main/res/menu/main_activity_actions.xml -->
